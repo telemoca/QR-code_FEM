@@ -16,7 +16,7 @@ Nice projet to get an overview of what Frontend Mentor has to offer
 
 ### Screenshot
 
-![](/Screenshot.png)
+![](/screenshot.png)
 
 ### Links
 
